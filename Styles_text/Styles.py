@@ -41,7 +41,7 @@ if __name__ == "__main__":
     print()
     print()
     print("--------------------------------------------------\n\n")
-    os.system("python3 texto.py")
+    os.system("python3 Styles.py")
     os.system("clear")
     
     
